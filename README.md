@@ -1,6 +1,6 @@
-## Your Name
+## Arbnor Sfarca
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+As an ambitious and driven individual, I am currently studying to become a software developer through the Makers bootcamp. Being a history graduate, I bring a unique perspective and skillset to the field. I have already gained foundational experience working with Ruby, JAVA, HTML, and CSS, and have experience in data analysis. I am highly self-motivated and have a logical approach to problem-solving, which I believe will help me thrive in a dynamic and challenging environment. I am inquisitive by nature with a commitment to upskilling. What excites me most about technology is the potential to innovate and make a positive impact on the world.
 
 ## Projects
 
@@ -11,13 +11,30 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy**
+_Software Developer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Participating in daily stand-ups and team retrospectives to discuss progress, challenges, and feedback.
+Collaborating with peers on group projects, including pair programming and code reviews.
+- Gaining practical experience with programming languages such as Ruby, JavaScript, and Python.
+Developing skills in test-driven development (TDD) and agile methodologies.
+- Building web applications using frameworks such as Sinatra and Ruby on Rails.
+- Learning to use version control with Git and GitHub to manage project codebases.
+- Participating in coding challenges and hackathons to improve problem-solving skills.
+- Building a personal portfolio of projects to showcase programming abilities and technical proficiency.
+- Engaging in peer mentoring and providing support to fellow students.
+- Seeking feedback from instructors and incorporating it into personal development goals.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**KPMG** (start-date to end-date)  
+_Data analyst virtual internship_
+
+- Gained practical insight with real life examples of the work done by KPMG Data Analyst.
+- Learnt how to use excel to clean and optimise big data.
+- Used data exploration, model development and data interpretation to build recommendations for client strategies.
+- Learnt how to use Power BI to create an interactive dashboard to highlight key findings and convey idea from analysis.
+
+**Waitrose & Partners** (start-date to end-date)  
+_Duty Manager/customer sercive lead_
 
 - Any experience relevent to software development
 
@@ -54,11 +71,10 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### SOAS (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA History
+- 2:1
 
 #### Any other qualifications
 
@@ -66,4 +82,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Basketball, gym, traveling 
