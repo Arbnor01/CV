@@ -21,7 +21,7 @@ As an ambitious and driven individual, I am currently studying to become a softw
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=<your-Arbnor01>&theme=<merko>&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Arbnor01&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ## Projects
