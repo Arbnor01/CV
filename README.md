@@ -1,6 +1,28 @@
 ## Arbnor Sfarca
 
+# 💫 About Me:
 As an ambitious and driven individual, I am currently studying to become a software developer through the Makers bootcamp. Being a history graduate, I bring a unique perspective and skillset to the field. I have already gained foundational experience working with Ruby, JAVA, HTML, and CSS, and have experience in data analysis. I am highly self-motivated and have a logical approach to problem-solving, which I believe will help me thrive in a dynamic and challenging environment. I am inquisitive by nature with a commitment to upskilling. What excites me most about technology is the potential to innovate and make a positive impact on the world.
+
+# 💻 Tech Stack:
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Sinatra](https://img.shields.io/badge/sinatra-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TDD](https://img.shields.io/badge/tdd-%239C27B0.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Beaver](https://img.shields.io/badge/beaver-%23FF8800.svg?style=for-the-badge&logo=beaver&logoColor=white)
+![TablePlus](https://img.shields.io/badge/tableplus-%23000000.svg?style=for-the-badge&logo=tableplus&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=<your-Arbnor01>&theme=<merko>&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ## Projects
 
